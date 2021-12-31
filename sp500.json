@@ -1,0 +1,3537 @@
+[
+    {
+        "ticker": "MMM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ABT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ABBV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ABMD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ACN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ATVI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ADBE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AMD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AAP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AES",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AFL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "A",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "APD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AKAM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ALK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ALB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ARE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ALGN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ALLE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LNT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ALL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GOOGL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GOOG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AMZN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AMCR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AEE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AAL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AEP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AXP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AIG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AMT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AWK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AMP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ABC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AME",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AMGN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "APH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ADI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ANSS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ANTM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AON",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AOS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "APA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AAPL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AMAT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "APTV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ADM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ANET",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AJG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AIZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "T",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ATO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ADSK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ADP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AZO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AVB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AVY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BKR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BLL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BAC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BBWI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BAX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BDX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BRK.B",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BBY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BIO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TECH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BIIB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BLK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BKNG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BWA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BXP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BSX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BMY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "AVGO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BRO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BF.B",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CHRW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CDNS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CZR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CPB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "COF",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CAH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KMX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CCL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CARR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CTLT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CAT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CBOE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CBRE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CDW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CNC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CNP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CDAY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CERN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CF",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CRL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SCHW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CHTR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CVX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CMG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CHD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CINF",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CTAS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CSCO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "C",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CFG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CTXS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CLX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CME",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CMS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CTSH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CMCSA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CMA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CAG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "COP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ED",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "STZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "COO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CPRT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GLW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CTVA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "COST",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CTRA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CCI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CSX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CMI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CVS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DHI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DHR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DRI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DVA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DAL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "XRAY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DVN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DXCM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FANG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DLR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DFS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DISCA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DISCK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DISH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DLTR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "D",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DPZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DOV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DOW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DTE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DUK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DRE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DXC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EMN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ETN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EBAY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ECL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EIX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EMR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ENPH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ETR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EOG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EPAM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EFX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EQIX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EQR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ESS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ETSY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EVRG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ES",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EXC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EXPE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EXPD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "EXR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "XOM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FFIV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FAST",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FRT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FDX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FIS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FITB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FRC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FISV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FLT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FMC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "F",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FTNT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FTV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FBHS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FOXA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FOX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "BEN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FCX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GPS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GRMN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GNRC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GIS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GPC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GILD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GPN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "GWW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HAL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HBI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HIG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HAS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HCA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PEAK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HSIC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HSY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HES",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HPE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HLT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HOLX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HON",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HRL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HST",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HWM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HPQ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HUM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HBAN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "HII",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IEX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IDXX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "INFO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ITW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ILMN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "INCY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "INTC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ICE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IBM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IPG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IFF",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "INTU",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ISRG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IVZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IPGP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IQV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "IRM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "JKHY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "J",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "JBHT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SJM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "JNJ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "JCI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "JPM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "JNPR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "K",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KEY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KEYS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KMB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KIM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KMI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KLAC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KHC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "KR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LHX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LRCX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LVS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LEG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LDOS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LEN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LLY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LNC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LIN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LYV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LKQ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LMT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "L",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LOW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LUMN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LYB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MTB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MRO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MPC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MKTX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MAR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MMC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MLM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MAS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MTCH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MKC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MCD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MCK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MDT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MRK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "FB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MET",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MTD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MGM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MCHP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MU",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MSFT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MAA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MRNA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MHK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TAP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MDLZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MPWR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MNST",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MCO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MOS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MSI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "MSCI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NDAQ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NTAP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NFLX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NWL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NEM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NWSA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NWS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NEE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NLSN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NKE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NSC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NTRS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NOC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NLOK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NCLH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NRG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NUE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NVDA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NVR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NXPI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ORLY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "OXY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ODFL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "OMC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "OKE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ORCL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "OGN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "OTIS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PCAR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PKG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PAYX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PAYC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PYPL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PENN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PNR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PBCT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PEP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PKI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PFE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PSX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PNW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PXD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PNC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "POOL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PPG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PPL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PFG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PGR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PLD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PRU",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PTC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PEG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PSA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PHM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PVH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "QRVO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "PWR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "QCOM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DGX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RJF",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RTX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "O",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "REG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "REGN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RF",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RSG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RMD",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RHI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ROK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ROL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ROP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ROST",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "RCL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SPGI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "CRM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SBAC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SLB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "STX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SEE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SRE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "NOW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SHW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SPG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SWKS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SNA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "LUV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SWK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SBUX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "STT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "STE",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SYK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SIVB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SYF",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SNPS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "SYY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TMUS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TROW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TTWO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TPR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TGT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TEL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TDY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TFX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TER",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TSLA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TXN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TXT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TMO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TJX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TSCO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TDG",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TRV",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TRMB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TFC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TWTR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TYL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "TSN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "UDR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ULTA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "USB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "UAA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "UA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "UNP",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "UAL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "UNH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "UPS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "URI",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "UHS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VLO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VTR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VRSN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VRSK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VZ",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VRTX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VFC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VIAC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VTRS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "V",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VNO",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "VMC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WRB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WAB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WMT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WBA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "DIS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WAT",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WEC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WFC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WELL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WST",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WDC",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WU",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WRK",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WY",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WHR",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WMB",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WLTW",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "WYNN",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "XEL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "XLNX",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "XYL",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "YUM",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ZBRA",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ZBH",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ZION",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    {
+        "ticker": "ZTS",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "crawl_date": "2021-12-20",
+        "time_of_day": "01:06",
+        "user-agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    }
+]
